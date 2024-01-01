@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>lucem&#x27;s github page</title>
+    <link href="https://lucem.github.io/feed.xml" rel="self" />
+    <link href="https://lucem.github.io" />
+    <updated>2024-01-01T13:56:19+01:00</updated>
+    <author>
+        <name>lucem</name>
+    </author>
+    <id>https://lucem.github.io</id>
+
+    <entry>
+        <title>Placeholder</title>
+        <author>
+            <name>lucem</name>
+        </author>
+        <link href="https://lucem.github.io/placeholder.html"/>
+        <id>https://lucem.github.io/placeholder.html</id>
+
+        <updated>2024-01-01T13:56:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                    lorem ipsum
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>lorem ipsum</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

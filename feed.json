@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "lucem&#x27;s github page",
+    "description": "",
+    "home_page_url": "https://lucem.github.io",
+    "feed_url": "https://lucem.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "lucem"
+    },
+    "items": [
+        {
+            "id": "https://lucem.github.io/placeholder.html",
+            "url": "https://lucem.github.io/placeholder.html",
+            "title": "Placeholder",
+            "summary": "lorem ipsum",
+            "content_html": "<p>lorem ipsum</p>",
+            "author": {
+                "name": "lucem"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-01T13:56:19+01:00",
+            "date_modified": "2024-01-01T13:56:19+01:00"
+        }
+    ]
+}
